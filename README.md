@@ -32,30 +32,6 @@ Database & Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-🚀 Featured Projects
-
-1. Computer Vision Project
-Exploring computer vision applications using Python, YOLO, and deep learning for intelligent detection and monitoring systems.
-
-  🔗 [View Repository](https://github.com/AhmadAriel04/Computer-Vision)
-  
-  **Technologies:** Python, YOLO, Laravel, MySQL
-
-2. Flutter Mobile Development
-Exploring mobile application development with Flutter and Dart.
-
-**Technologies:** Flutter, Dart
-
----
-
-📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAriel04&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAriel04&layout=compact&theme=tokyonight&hide_border=true)
-
-
 🎯 Current Goals
 
 - Build practical AI and Computer Vision applications.
@@ -63,7 +39,6 @@ Exploring mobile application development with Flutter and Dart.
 - Develop reliable web and mobile applications.
 - Share my learning journey and projects through GitHub.
 
----
 
 Thanks for visiting my profile! 🚀
 
