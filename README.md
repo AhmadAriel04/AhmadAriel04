@@ -38,9 +38,9 @@ Database & Tools:
 1. Computer Vision Project
 Exploring computer vision applications using Python, YOLO, and deep learning for intelligent detection and monitoring systems.
 
-🔗 [View Repository](https://github.com/AhmadAriel04/Computer-Vision)
-
-**Technologies:** Python, YOLO, Laravel, MySQL
+  🔗 [View Repository](https://github.com/AhmadAriel04/Computer-Vision)
+  
+  **Technologies:** Python, YOLO, Laravel, MySQL
 
 2. Flutter Mobile Development
 Exploring mobile application development with Flutter and Dart.
